@@ -14,3 +14,4 @@ The services takes the `geo-city` parameter from the action, performs geolocatio
 
 The service packs the result in the Api.ai webhook-compatible response JSON and returns it to Api.ai.
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/fpBCeDOPhKU" frameborder="0" allowfullscreen></iframe>
